@@ -15,4 +15,5 @@ public class CountData {
         userCount = uc;
         userCountActive = ua;
     }
+    //
 }
